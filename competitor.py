@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1GUb9yHFwhxNCV2EzLhfEexNBzluhHJWj
 """
 
-!pip install rake_nltk
+# !pip install rake_nltk
 
 import pandas as pd
 import matplotlib.pyplot as plt
